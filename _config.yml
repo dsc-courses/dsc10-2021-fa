@@ -17,8 +17,6 @@ title: DSC 10
 description: DSC 10, Fall 2021 at UC San Diego
 tagline: Principles of Data Science
 author: Suraj Rampure
-baseurl: '/fa21' # the subpath of your site, e.g. /blog
-url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
