@@ -34,6 +34,8 @@ aux_links:
     - 'https://datahub.ucsd.edu'
   Gradescope:
     - '#'
+  Canvas:
+    - '#'
 footer_content:
 
 # Collections for website data

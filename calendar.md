@@ -5,6 +5,6 @@ description: The weekly event schedule.
 nav_order: 3
 ---
 
-# Calendar
+# Calendar 📅
 
 TODO: put Google Calendar integration

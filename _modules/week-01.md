@@ -1,9 +1,8 @@
 ---
-    title: 1. Welcome to DSC 10!
+    title: Week 1
     weekNumber: 1
     days:
-      - date: 2021-09-24
+      - date: 2021-9-24
         events:
-          "**1**{: .label .label-gray } Introduction, Association and Causality":
-            "**1**{: .label .label-ghost } [slides](#) • [code](#) • [code HTML](#)"
+          "**1**{: .label .label-gray } Introduction to DSC 10, Association and Causation":
 ---
