@@ -2,13 +2,13 @@
     title: Week 8
     weekNumber: 8
     days:
-      - date: 2021-11-8
+      - date: 2021-11-15
         events:
-          "**19**{: .label .label-gray } Bootstrapping":
-      - date: 2021-11-10
+          "**22**{: .label .label-gray } Normal Curve, Central Limit Theorem":
+      - date: 2021-11-17
         events:
-          "**20**{: .label .label-gray } Confidence Intervals":
-      - date: 2021-11-12
+          "**23**{: .label .label-gray } Central Limit Theorem, Normal Confidence Intervals":
+      - date: 2021-11-19
         events:
-          "**21**{: .label .label-gray } Center and Spread":
+          "**24**{: .label .label-gray } Experiment Design":
 ---

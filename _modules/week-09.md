@@ -2,13 +2,13 @@
     title: Week 9
     weekNumber: 9
     days:
-      - date: 2021-11-15
+      - date: 2021-11-22
         events:
-          "**22**{: .label .label-gray } Normal Curve, Central Limit Theorem":
-      - date: 2021-11-17
+          "**25**{: .label .label-gray } Prediction and Correlation":
+      - date: 2021-11-24
         events:
-          "**23**{: .label .label-gray } Central Limit Theorem, Normal Confidence Intervals":
-      - date: 2021-11-19
+          "**26**{: .label .label-gray } Regression and Least Squares":
+      - date: 2021-11-26
         events:
-          "**24**{: .label .label-gray } Experiment Design":
+          "N/A (Thanksgiving)":
 ---

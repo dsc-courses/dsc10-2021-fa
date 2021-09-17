@@ -2,13 +2,13 @@
     title: Week 2
     weekNumber: 2
     days:
-      - date: 2021-9-27
+      - date: 2021-10-4
         events:
-          "**2**{: .label .label-gray } Association and Causation, Basic Python and Jupyter Notebooks":
-      - date: 2021-9-29
+          "**5**{: .label .label-gray } Accessing, Sorting, and Querying":
+      - date: 2021-10-6
         events:
-          "**3**{: .label .label-gray } Expressions and Data Types":
-      - date: 2021-10-1
+          "**6**{: .label .label-gray } GroupBy":
+      - date: 2021-10-8
         events:
-          "**4**{: .label .label-gray } Arrays and DataFrames":
+          "**7**{: .label .label-gray } Data Visualization":
 ---

@@ -2,13 +2,13 @@
     title: Week 4
     weekNumber: 4
     days:
-      - date: 2021-10-11
+      - date: 2021-10-18
         events:
-          "**8**{: .label .label-gray } Histograms and Overlaid Plots":
-      - date: 2021-10-13
+          "**11**{: .label .label-gray } Booleans and Conditional Iteration":
+      - date: 2021-10-20
         events:
-          "**9**{: .label .label-gray } Functions and Apply":
-      - date: 2021-10-15
+          "**12**{: .label .label-gray } Probability":
+      - date: 2021-10-22
         events:
-          "**10**{: .label .label-gray } Grouping with Subgroups, Merge":
+          "**13**{: .label .label-gray } Simulations and Sampling":
 ---

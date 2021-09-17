@@ -2,13 +2,13 @@
     title: Week 3
     weekNumber: 3
     days:
-      - date: 2021-10-4
+      - date: 2021-10-11
         events:
-          "**5**{: .label .label-gray } Accessing, Sorting, and Querying":
-      - date: 2021-10-6
+          "**8**{: .label .label-gray } Histograms and Overlaid Plots":
+      - date: 2021-10-13
         events:
-          "**6**{: .label .label-gray } GroupBy":
-      - date: 2021-10-8
+          "**9**{: .label .label-gray } Functions and Apply":
+      - date: 2021-10-15
         events:
-          "**7**{: .label .label-gray } Data Visualization":
+          "**10**{: .label .label-gray } Grouping with Subgroups, Merge":
 ---

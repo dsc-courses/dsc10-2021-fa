@@ -2,7 +2,13 @@
     title: Week 1
     weekNumber: 1
     days:
-      - date: 2021-9-24
+      - date: 2021-9-27
         events:
-          "**1**{: .label .label-gray } Introduction to DSC 10, Association and Causation":
+          "**2**{: .label .label-gray } Association and Causation, Basic Python and Jupyter Notebooks":
+      - date: 2021-9-29
+        events:
+          "**3**{: .label .label-gray } Expressions and Data Types":
+      - date: 2021-10-1
+        events:
+          "**4**{: .label .label-gray } Arrays and DataFrames":
 ---

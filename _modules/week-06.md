@@ -2,13 +2,13 @@
     title: Week 6
     weekNumber: 6
     days:
-      - date: 2021-10-25
+      - date: 2021-11-1
         events:
-          "**14**{: .label .label-gray } Sampling and Distributions":
-      - date: 2021-10-27
+          "**16**{: .label .label-gray } Hypothesis Testing":
+      - date: 2021-11-3
         events:
-          "**15**{: .label .label-gray } Models and Statistics":
-      - date: 2021-10-29
+          "**17**{: .label .label-gray } Hypothesis Testing, Permutation Testing":
+      - date: 2021-11-5
         events:
-          "Midterm (very TBD)":
+          "**18**{: .label .label-gray } Permutation Testing":
 ---

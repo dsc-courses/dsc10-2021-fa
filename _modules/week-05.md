@@ -2,13 +2,13 @@
     title: Week 5
     weekNumber: 5
     days:
-      - date: 2021-10-18
+      - date: 2021-10-25
         events:
-          "**11**{: .label .label-gray } Booleans and Conditional Iteration":
-      - date: 2021-10-20
+          "**14**{: .label .label-gray } Sampling and Distributions":
+      - date: 2021-10-27
         events:
-          "**12**{: .label .label-gray } Probability":
-      - date: 2021-10-22
+          "**Exam**{: .label .label-exam } Midterm (in class)":
+      - date: 2021-10-29
         events:
-          "**13**{: .label .label-gray } Simulations and Sampling":
+          "**15**{: .label .label-gray } Models and Statistics":
 ---

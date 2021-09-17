@@ -2,13 +2,13 @@
     title: Week 7
     weekNumber: 7
     days:
-      - date: 2021-11-1
+      - date: 2021-11-8
         events:
-          "**16**{: .label .label-gray } Hypothesis Testing":
-      - date: 2021-11-3
+          "**19**{: .label .label-gray } Bootstrapping":
+      - date: 2021-11-10
         events:
-          "**17**{: .label .label-gray } Hypothesis Testing, Permutation Testing":
-      - date: 2021-11-5
+          "**20**{: .label .label-gray } Confidence Intervals":
+      - date: 2021-11-12
         events:
-          "**18**{: .label .label-gray } Permutation Testing":
+          "**21**{: .label .label-gray } Center and Spread":
 ---
