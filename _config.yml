@@ -35,7 +35,7 @@ aux_links:
   Gradescope:
     - 'https://www.gradescope.com/courses/314157'
   Canvas:
-    - '#'
+    - 'https://canvas.ucsd.edu/calendar?include_contexts=course_29590#view_name=month'
 footer_content:
 
 # Collections for website data

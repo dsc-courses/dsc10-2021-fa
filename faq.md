@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 description: Frequently asked questions about the course.
-nav_order: 5
+nav_order: 4
 ---
 
 # Frequently Asked Questions 🙋
@@ -14,24 +14,23 @@ nav_order: 5
 1. TOC
 {:toc}
 
-
 ## Enrollment
 
 ### I am on the waitlist, so how can I keep up with the course?
 
-You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to Datahub to work on assignments. You may need to add yourself to some course tools; see the Technology section of the syllabus.
+You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to Datahub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](../syllabus#getting-started) section of the syllabus.
 
 ### What are my chances of getting off the waitlist?
 
-The instructional staff is not equipped to answer this question. Many questions about enrollment are answered here. Please direct your questions about enrollment to DSC advising. You can send an email to [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu), send a message through the Virtual Advising Center, or stop by drop-in advising hours. In short, seats in the class open up when students drop the class, which can be hard to predict.
+The instructional staff is not equipped to answer this question. Many questions about enrollment are [answered here](http://datascience.ucsd.edu/academics/undergraduate/faq/). Please direct your questions about enrollment to DSC advising. You can send an email to [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu), send a message through the Virtual Advising Center, or stop by drop-in advising hours. In short, seats in the class open up when students drop the class, which can be hard to predict.
 
 ### Will another section be added? Will more seats open up?
 
 Unfortunately, no. Despite not having the limitation of physical classroom space, we are still constrained by the staff’s ability to support you. We are not able to add more staff to the course and therefore we are not able to accept more students in the course.
 
-### I have been added to Gradescope, Canvas, and other course tools. Does this mean I am off the waitlist?
+### I have been added to Gradescope, Canvas, Campuswire, and other course tools. Does this mean I am off the waitlist?
 
-No. Students on the waitlist were also added to all course tools, so they can complete assignments while they are on the waitlist. Check Webreg if you are not sure of your enrollment status.
+No. Students on the waitlist were also added to all course tools, so they can complete assignments while they are on the waitlist. Check [Webreg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment status.
 
 ## Course
  
@@ -45,7 +44,7 @@ If you think there is a problem with the autograder, please post in the #autogra
 
 ### What should I do if a correction to an assignment is announced?
 
-You must first log into datahub.ucsd.edu, then click the assignment link. This will download a corrected version of the assignment. You won’t lose your work by doing this.
+You must first log into [datahub.ucsd.edu](https://datahub.ucsd.edu), then click the assignment link from the course homepage. This will download a corrected version of the assignment. You won’t lose your work by doing this.
 
 ### Which version of my assignment will be graded?
 
@@ -79,7 +78,7 @@ No. Discussion section is supplemental, and will be especially useful for those 
  
 ### Do I have to attend the lecture and discussion I am enrolled in?
 
-TBD
+You must attend the lecture you're enrolled in (email us if you have any concerns), but you can attend any discussion section.
 
 ## Tech Support
 
@@ -105,7 +104,7 @@ Go to the Cell menu in the top toolbar, then “Run All.” You can also select 
 
 ### I clicked the assignment link, but why can’t I find my assignment in Datahub?
 
-You must first log into datahub.ucsd.edu, then click the assignment link. Click the link again AFTER logging in.
+You must first log [datahub.ucsd.edu](https://datahub.ucsd.edu), then click the assignment link. Click the link again AFTER logging in.
 
 ### Why does `grader.check_all()` fail, if all previous tests passed?
 

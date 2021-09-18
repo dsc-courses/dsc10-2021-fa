@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 description: Useful links and resources.
-nav_order: 4
+nav_order: 3
 ---
 
 # Resources 📚
@@ -20,6 +20,7 @@ nav_order: 4
 - [Code Academy](https://www.codecademy.com/learn/learn-python)
 - [Coding Bat](https://codingbat.com/python)
 - [Introduction to Computational Thinking with Data](http://data94.org)
+- [Pair Programming Guidelines](../pair-programming)
 
 ## UC San Diego Links
 - [Data Science Undergraduate Program](https://datascience.ucsd.edu/academics/undergraduate/)

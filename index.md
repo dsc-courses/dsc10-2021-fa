@@ -24,6 +24,8 @@ seo:
 
 **This website is in progress and all content is subject to change.**
 
+[Recordings, Zoom Links, and OH Schedule on Canvas](https://canvas.ucsd.edu/calendar?include_contexts=course_29590#view_name=month){: .btn .btn-blue }
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

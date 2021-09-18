@@ -11,4 +11,6 @@
       - date: 2021-10-1
         events:
           "**4**{: .label .label-gray } Arrays and DataFrames":
+          "**Lab 1**{: .label .label-lab } Basic Python and Data Types (due 10/5)":
+          "**Homework 1**{: .label .label-hw } Causality and Basic Python (due 10/9)":
 ---
