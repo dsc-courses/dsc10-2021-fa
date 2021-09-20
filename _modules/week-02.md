@@ -6,7 +6,7 @@
         events:
           "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
             "[DDS 2.3-2.4](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/accessing.html)"
-      - date: 2021-9-28
+      - date: 2021-10-5
         events:
           "**LAB 1**{: .label .label-lab } **Basic Python and Data Types (due 10/5)**":
       - date: 2021-10-6
