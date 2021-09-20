@@ -14,7 +14,7 @@ nav_order: 5
 {{ staffer }}
 {% endfor %}
 
-## Staff
+## Course Staff
 
 {% assign staff = site.staffers | where: 'role', 'Staff' %}
 <div class="role">

@@ -5,12 +5,14 @@
       - date: 2021-9-27
         events:
           "**2**{: .label .label-gray } Association and Causation, Basic Python and Jupyter Notebooks":
+      - date: 2021-9-28
+        events:
+          "**Lab 1**{: .label .label-lab } Basic Python and Data Types (due 10/5)":
       - date: 2021-9-29
         events:
           "**3**{: .label .label-gray } Expressions and Data Types":
       - date: 2021-10-1
         events:
           "**4**{: .label .label-gray } Arrays and DataFrames":
-          "**Lab 1**{: .label .label-lab } Basic Python and Data Types (due 10/5)":
           "**Homework 1**{: .label .label-hw } Causality and Basic Python (due 10/9)":
 ---

@@ -41,7 +41,7 @@ All lecture sections will cover the same content, but due to space constraints y
 There are three discussion sections, two of which will be taught in person while the third will be taught remotely.
 - A01: Monday 3-4PM, Ridge Walk Academic Complex 0121
 - B01: Monday 4-5PM, Ridge Walk Academic Complex 0121
-- C01: Monday TBD, Remote
+- C01: Tuesday 5-6PM, Remote via Zoom
 
 You can attend any discussion section, not just the one you're enrolled in.
 
