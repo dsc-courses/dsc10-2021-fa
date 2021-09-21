@@ -9,8 +9,6 @@ nav_order: 2
 # Syllabus 📖
 {:.no_toc}
 
-**Note (9/15): The contents of this page are incomplete and subject to change.**
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -41,7 +39,7 @@ All lecture sections will cover the same content, but due to space constraints y
 There are three discussion sections, two of which will be taught in person while the third will be taught remotely.
 - A01: Monday 3-4PM, Ridge Walk Academic Complex 0121
 - B01: Monday 4-5PM, Ridge Walk Academic Complex 0121
-- C01: Tuesday 5-6PM, Remote via Zoom
+- C01: Tuesday 5-6PM, Remote via Zoom (see Canvas for Zoom link)
 
 You can attend any discussion section, not just the one you're enrolled in.
 
@@ -80,7 +78,7 @@ In order to get started in this class, you'll need to set up a few things.
 
 ### Campuswire
 
-We'll be using Campuswire as our course message and discussion board. Please make a post on Campuswire if you have any questions about course content or logistics, or if you need to get in touch with the staff. If you didn't already get an invitation to our Campuswire course, you can sign up here. Make sure to join the chatroom for your assigned team as well as the #autograder chatroom.
+We'll be using Campuswire as our course message and discussion board. Please make a post on Campuswire if you have any questions about course content or logistics, or if you need to get in touch with the staff. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G9636FFCF). Make sure to join the chatroom for your assigned team as well as the #autograder chatroom.
 
 ### Gradescope
 
@@ -96,9 +94,9 @@ All students must complete an Integrity of Scholarship Agreement through [this r
 
 ## Textbooks and Materials
 
-The primary textbook for this class is [Dive Into Data Science](https://eldridgejm.github.io/dive_into_data_science/front.html), a free online textbook that is currently under development specifically for DSC 10.
+The primary textbook for this class is [Dive Into Data Science (DDS)](https://eldridgejm.github.io/dive_into_data_science/front.html), a free online textbook that is currently under development specifically for DSC 10.
 
-As the primary textbook is still a work in progress and doesn't yet cover everything we cover in this course, we'll also use a supplementary textbook, [Inferential Thinking](https://inferentialthinking.com), which is again a free online book. This book comes from Berkeley's version of this course and uses slightly different Python commands, but the underlying concepts are the same.
+As the primary textbook is still a work in progress and doesn't yet cover everything we cover in this course, we'll also use a supplementary textbook, [Computational Inferential Thinking (CIT)](https://inferentialthinking.com), which is again a free online book. This book comes from Berkeley's version of this course and uses slightly different Python commands, but the underlying concepts are the same.
 
 You will also need access to a computer and a stable internet connection to participate in this course. UCSD has a Laptop Loaner program which may be helpful, but you should also contact us if you have any concerns about access to technology. You will not need a webcam for this course.
 
@@ -111,7 +109,7 @@ Weekly lab assignments are a required part of the course and will help you devel
 As you complete the lab, you'll be able to run a sequence of tests, which check to make sure that your answers are correct. If you complete the assignment and all the tests pass, you'll get a perfect score!
 Each person must complete and submit the lab on their own, but you are welcome to discuss the lab with others. You cannot copy or share answers, however.
 
-To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will be due on Tuesdays at 11:59pm PST. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
+To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will be due on Tuesdays at 11:59pm San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
 
 ### Homework Assignments
 
@@ -121,7 +119,7 @@ An important difference between labs and homeworks lies in the way tests are run
 
 After you submit your homework to Gradescope, and after the deadline for submissions has passed, a new set of hidden tests will be run to make sure that you have the correct answers. In the percent example above, the hidden test might check that your answer equals 56, for example. Your score for the assignment will be based on the results of the hidden tests, which won't be available immediately after submission. So if you see a perfect score upon submission, this only means that you've passed the formatting tests, not the hidden correctness tests that determine your score.
 
-You must work on homework assignments alone. To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will be due on Saturdays at 11:59pm PST. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
+You must work on homework assignments alone. To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will be due on Saturdays at 11:59pm San Diego time. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
 
 ### Projects
 This class has two projects, a midterm project and a final project. Projects are like more challenging homeworks. They are longer than a typical homework, and they require you to pull together ideas from previous weeks, rather than just the last week. Projects also give you a chance to explore a data set in-depth, which can be a lot of fun!
@@ -130,13 +128,13 @@ Project tests are like homework tests: the provided tests only check if your ans
 Unlike homeworks, you may work with a partner, though your partner must come from your team. If you choose to work with a partner, you should practice [pair programming](../pair-programming). This means that you should work on the assignment synchronously, discussing each problem together and writing each answer together, taking turns of who is in control of the coding. Please read the [section of this website dedicated to pair programming](../pair-programming) to learn more about how this works, and some of the benefits of working in pairs. If working with a partner, only one of you should submit the assignment.
 
 ### Deadlines and Slip Days
-Labs, homeworks, and projects must be submitted by the 11:59pm PST deadline to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late. 
+Labs, homeworks, and projects must be submitted by the 11:59pm San Diego time deadline to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late. 
 
 You have six "slip days" to use throughout the quarter. A slip day extends the deadline of any one homework, lab, or project by 24 hours. If you need to extend the deadline by 48 hours, you can, but this costs you three slip days. You cannot turn in any assignments more than 48 hours late.   
 
 Slip days are applied automatically at the end of the quarter, and you don't need to ask in order to use one. It's your responsibility to keep track of how many you have left. If you run out of slip days and submit an assignment late, it may still be graded so that you'll see what questions you missed, but the grade will be changed to a zero at the end of the quarter. If you use more than six slip days, we will count the first six as slip days and late assignments after that will get zero scores.
 
-Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it). But slips days are also meant for things like the internet (or the Datahub server) going down at 11:58 PM just as you go to submit your homework. Slip days are meant to be used in exceptional circumstances, so you probably should not need to use all six, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to me as soon as possible so we can work something out.
+Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it). But slip days are also meant for things like the internet (or the DataHub server) going down at 11:58 PM just as you go to submit your homework. Slip days are meant to be used in exceptional circumstances, so you probably should not need to use all six, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.
 
 ### Exams
 
@@ -154,8 +152,8 @@ Both exams must be taken exactly during the scheduled slot, no exceptions.
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
 
 | Component | Weight | Notes |
-| Lab Assignments | 15% | best 7 out of 8 |
-| Homework Assignments | 35% | best 6 out of 7 |
+| Lab Assignments | 15% | drop lowest score |
+| Homework Assignments | 35% | drop lowest score |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 15% | |
@@ -187,7 +185,7 @@ If you have extenuating circumstances that prohibit your completion of coursewor
 
 The basic rule for DSC 10 is: Work hard. Make use of the expertise of the staff to learn what you need to know to really do well in the course.  Act with integrity, and don't cheat.
 
-If you do cheat, we will enforce the UCSD Policy on Integrity of Scholarship.  This means you will likely fail the course and the Dean of your college will put you on probation or suspend or dismiss you from UCSD.
+If you do cheat, we will enforce the UCSD Policy on Integrity of Scholarship. This means you will likely fail the course and the Dean of your college will put you on probation or suspend or dismiss you from UCSD.
 Students agree that by taking this course, their assignments will be submitted to third party software to help detect plagiarism.
 
 ### Why is academic integrity important?
@@ -229,4 +227,4 @@ The best way to avoid problems is by using your best judgement and remembering t
 Students requesting accommodations for this course due to a disability or current functional limitation must provide a current Authorization for Accommodation (AFA) letter issued by the [Office for Students with Disabilities](https://osd.ucsd.edu) (OSD), which is located in University Center 202 behind Center Hall.  If you have an AFA letter, please make arrangements to meet with the instructor and with the Data Science OSD Liaison by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged. The Data Science OSD Liaison can be reached at dscstudent@ucsd.edu.
 
 ### Diversity and Inclusion
-I am committed to an inclusive learning environment that respects our diversity of perspectives, experiences, and identities. My goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive. If you have any suggestions as to how I could create a more inclusive setting, please let me know. We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the [UCSD Principles of Community](https://www.google.com/url?q=https%3A%2F%2Fucsd.edu%2Fabout%2Fprinciples.html&sa=D&sntz=1&usg=AFQjCNE1YPiUyffLg0kI10zLtUQl6iCDmQ). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable. 
+We are committed to an inclusive learning environment that respects our diversity of perspectives, experiences, and identities. Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive. If you have any suggestions as to how we could create a more inclusive setting, please let us know. We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the [UCSD Principles of Community](https://www.google.com/url?q=https%3A%2F%2Fucsd.edu%2Fabout%2Fprinciples.html&sa=D&sntz=1&usg=AFQjCNE1YPiUyffLg0kI10zLtUQl6iCDmQ). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable. 

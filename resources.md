@@ -10,7 +10,7 @@ nav_order: 3
 ## Readings and Reference Sheets
 
 - [Main Textbook (Dive Into Data Science)](https://eldridgejm.github.io/dive_into_data_science/front.html)
-- [Supplementary Textbook (Inferential Thinking)](https://inferentialthinking.com)
+- [Supplementary Textbook (Computational and Inferential Thinking)](https://inferentialthinking.com)
 - [DSC 10 Reference Sheet (handy summary)](https://drive.google.com/file/d/1mQApk9Ovdi-QVqMgnNcq5dZcWucUKoG-/view?usp=sharing)
 - [Babypandas Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
 

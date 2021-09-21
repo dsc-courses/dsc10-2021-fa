@@ -6,6 +6,10 @@
         events:
           "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[DDS 3.1-3.4](https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html)"
+          "**DISC 3**{: .label .label-disc }":
+      - date: 2021-10-12
+        events:
+          "**LAB 2**{: .label .label-lab }":
       - date: 2021-10-13
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":
@@ -14,4 +18,7 @@
         events:
           "**LEC 10**{: .label .label-lecture } Grouping with Subgroups, Merge":
             "[DDS 2.5](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/groupby.html), [4.1](https://eldridgejm.github.io/dive_into_data_science/04-advanced_data_manipulation/merging.html)"
+      - date: 2021-10-16
+        events:
+          "**HW 2**{: .label .label-hw }":
 ---

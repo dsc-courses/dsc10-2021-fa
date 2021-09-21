@@ -4,6 +4,6 @@
     days:
       - date: 2021-9-24
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction, Association and Causality":
+          "**LEC 1**{: .label .label-lecture } Introduction":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html)"
 ---

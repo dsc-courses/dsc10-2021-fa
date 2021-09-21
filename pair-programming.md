@@ -9,7 +9,7 @@ nav_exclude: true
 # Pair Programming Guidelines 👯
 
 ## What is "Pair Programming"?
-When working on homework assignments and projects, you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes. Working in pairs should make you much better at programming than working alone would. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
+When working on projects (and projects only), you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes. Working in pairs should make you much better at programming than working alone would. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
 
 >>> [Pair programming] makes learning programming faster and more fun. I have had previous experience working both alone and with partners. I definitely agree that working with partners is more profitable.” – CS student
 
