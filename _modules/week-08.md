@@ -6,6 +6,10 @@
         events:
           "**LEC 22**{: .label .label-lecture } Normal Curve, Central Limit Theorem":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
+          "**DISC 8**{: .label .label-disc }":
+      - date: 2021-11-16
+        events:
+          "**LAB 7**{: .label .label-lab }":
       - date: 2021-11-17
         events:
           "**LEC 23**{: .label .label-lecture } Central Limit Theorem, Normal Confidence Intervals":
@@ -14,4 +18,7 @@
         events:
           "**LEC 24**{: .label .label-lecture } Experiment Design":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
+      - date: 2021-11-20
+        events:
+          "**HW 6**{: .label .label-hw }":
 ---
