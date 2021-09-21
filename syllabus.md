@@ -71,6 +71,7 @@ As you'll learn soon, in this class we'll be heavily using a Python library call
 - Bunnies (baby rabbits)
 - Porcupettes (baby porcupines)
 - Puppies (baby dogs)
+- Colts (baby horses)
 
 We encourage friendly competition between the teams!
 
@@ -166,6 +167,16 @@ Your mastery of class material will be assessed in the following ways, and final
 ### Regrade Requests
 
 If you'd like to request a regrade on any assignment, you must do so within one week of the assignment being graded. If you think there is a problem with the autograder, please post in the #autograder chatroom on Campuswire. If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+
+## Weekly Schedule
+
+To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
+| | Discussion | Discussion | | |
+| | | Lab N released | | | | Homework N released |
+| | | **Lab N-1 due** | | | | **Homework N-1 due** |
 
 ### Letter Grades and Incompletes
 
