@@ -111,7 +111,7 @@ Weekly lab assignments are a required part of the course and will help you devel
 As you complete the lab, you'll be able to run a sequence of tests, which check to make sure that your answers are correct. If you complete the assignment and all the tests pass, you'll get a perfect score!
 Each person must complete and submit the lab on their own, but you are welcome to discuss the lab with others. You cannot copy or share answers, however.
 
-To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will be due on Tuesdays at 11:59pm PST. The lowest lab score is dropped from the grade calculation.
+To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will be due on Tuesdays at 11:59pm PST. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
 
 ### Homework Assignments
 
@@ -121,7 +121,7 @@ An important difference between labs and homeworks lies in the way tests are run
 
 After you submit your homework to Gradescope, and after the deadline for submissions has passed, a new set of hidden tests will be run to make sure that you have the correct answers. In the percent example above, the hidden test might check that your answer equals 56, for example. Your score for the assignment will be based on the results of the hidden tests, which won't be available immediately after submission. So if you see a perfect score upon submission, this only means that you've passed the formatting tests, not the hidden correctness tests that determine your score.
 
-You must work on homework assignments alone. To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will be due on Saturdays at 11:59pm PST. The lowest homework score is dropped from the grade calculation.
+You must work on homework assignments alone. To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will be due on Saturdays at 11:59pm PST. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
 
 ### Projects
 This class has two projects, a midterm project and a final project. Projects are like more challenging homeworks. They are longer than a typical homework, and they require you to pull together ideas from previous weeks, rather than just the last week. Projects also give you a chance to explore a data set in-depth, which can be a lot of fun!
@@ -175,8 +175,7 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | Nothing! 😎 | Lecture | | Lecture | | Lecture | |
 | | Discussion | Discussion | | |
-| | | Lab N released | | | | Homework N released |
-| | | **Lab N-1 due** | | | | **Homework N-1 due** |
+| | | **Lab due** | | | | **Homework due** |
 
 ### Letter Grades and Incompletes
 
