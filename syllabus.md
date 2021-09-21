@@ -86,7 +86,7 @@ You'll submit labs, homeworks, and projects to Gradescope. Most questions will b
 
 ### DataHub
 
-Most assignments in this course will involve programming in Python. Datahub is UCSD's online data science and machine learning platform, where you will work on assignments. Everything you need for this course is already loaded into Datahub, so you can get started on assignments quickly without having to download anything. You should be able to log in to Dathub and see DSC 10 listed among the course environments, starting on the first day of classes. If you find that you are not able to, first check the FAQs for some common login problems, and if you're still having trouble, please contact us on Campuswire. To access assignments and course materials, first log into Datahub, then click this link.
+Most assignments in this course will involve programming in Python. DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data science and machine learning platform, where you will work on assignments. Everything you need for this course is already loaded into DataHub, so you can get started on assignments quickly without having to download anything. You should be able to log in to DataHub and see DSC 10 listed among the course environments, starting on the first day of classes. If you find that you are not able to, first check the FAQs for some common login problems, and if you're still having trouble, please contact us on Campuswire. To access assignments and course materials, first log into DataHub, then click the corresponding link on the course website.
 
 ### Integrity of Scholarship Agreement
 
@@ -147,6 +147,15 @@ Both exams must be taken exactly during the scheduled slot, no exceptions.
 - Midterm Exam: Wednesday, October 27th, during your assigned lecture slot (50 minutes)
 - Final Exam: Saturday, December 4th, 11:30AM-2:30PM
 
+## Weekly Schedule
+
+To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
+| | Discussion | Discussion | | |
+| | | **Lab due** | | | | **Homework due** |
+
 ## Grades
 
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
@@ -165,15 +174,6 @@ Your mastery of class material will be assessed in the following ways, and final
 ### Regrade Requests
 
 If you'd like to request a regrade on any assignment, you must do so within one week of the assignment being graded. If you think there is a problem with the autograder, please post in the #autograder chatroom on Campuswire. If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
-
-## Weekly Schedule
-
-To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
-
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
-| | Discussion | Discussion | | |
-| | | **Lab due** | | | | **Homework due** |
 
 ### Letter Grades and Incompletes
 
