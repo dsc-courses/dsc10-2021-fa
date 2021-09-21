@@ -88,7 +88,7 @@ You'll submit labs, homeworks, and projects to Gradescope. Most questions will b
 
 ### DataHub
 
-Most assignments in this course will involve programming in Python. Datahub is UCSD's online data science and machine learning platform, where you will work on assignments. Everything you need for this course is already loaded into Datahub, so you can get started on assignments quickly without having to download anything. You should be able to log in to Dathub and see DSC 10 listed among the course environments, starting on the first day of classes. If you find that you are not able to, first check the FAQs for some common login problems, and if you're still having trouble, please contact us on Campuswire. To access assignments and course materials, first log into Datahub, then click this link.
+Most assignments in this course will involve programming in Python. DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data science and machine learning platform, where you will work on assignments. Everything you need for this course is already loaded into DataHub, so you can get started on assignments quickly without having to download anything. You should be able to log in to DataHub and see DSC 10 listed among the course environments, starting on the first day of classes. If you find that you are not able to, first check the FAQs for some common login problems, and if you're still having trouble, please contact us on Campuswire. To access assignments and course materials, first log into DataHub, then click the corresponding link on the course website.
 
 ### Integrity of Scholarship Agreement
 
