@@ -149,6 +149,15 @@ Both exams must be taken exactly during the scheduled slot, no exceptions.
 - Midterm Exam: Wednesday, October 27th, during your assigned lecture slot (50 minutes)
 - Final Exam: Saturday, December 4th, 11:30AM-2:30PM
 
+## Weekly Schedule
+
+To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
+| | Discussion | Discussion | | |
+| | | **Lab due** | | | | **Homework due** |
+
 ## Grades
 
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
@@ -167,15 +176,6 @@ Your mastery of class material will be assessed in the following ways, and final
 ### Regrade Requests
 
 If you'd like to request a regrade on any assignment, you must do so within one week of the assignment being graded. If you think there is a problem with the autograder, please post in the #autograder chatroom on Campuswire. If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
-
-## Weekly Schedule
-
-To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
-
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| Nothing! 😎 | Lecture | | Lecture | | Lecture | |
-| | Discussion | Discussion | | |
-| | | **Lab due** | | | | **Homework due** |
 
 ### Letter Grades and Incompletes
 
