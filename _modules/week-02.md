@@ -6,7 +6,7 @@
         events:
           "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
             "[DDS 2.3-2.4](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/accessing.html)"
-          "**DISC 2**{: .label .label-disc }":
+          "**DIS 2**{: .label .label-disc }":
       - date: 2021-10-5
         events:
           "**LAB 1**{: .label .label-lab } **Basic Python and Data Types (due 10/5)**":
@@ -20,5 +20,5 @@
             "[DDS 3.1-3.4](https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html)"
       - date: 2021-10-9
         events:
-          "**HW 1**{: .label .label-hw } **Causality and Basic Python (due 10/9)**":
+          "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 10/9)**":
 ---

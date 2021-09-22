@@ -6,7 +6,7 @@
         events:
           "**LEC 19**{: .label .label-lecture } Bootstrapping":
             "[DDS 8.1](https://eldridgejm.github.io/dive_into_data_science/08-estimation/1_bootstrap.html)"
-          "**DISC 7**{: .label .label-disc }":
+          "**DIS 7**{: .label .label-disc }":
       - date: 2021-11-9
         events:
           "**LAB 6**{: .label .label-lab }":
@@ -20,5 +20,5 @@
             "[CIT 14.1-14.2](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)"
       - date: 2021-11-13
         events:
-          "**HW 5**{: .label .label-hw }":
+          "**HW 6**{: .label .label-hw } **Permutation Testing, Percentiles, and Bootstrapping (due 11/13)**":
 ---

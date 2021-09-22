@@ -6,7 +6,7 @@
         events:
           "**LEC 16**{: .label .label-lecture } Hypothesis Testing":
             "[DDS 7.1](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html)"
-          "**DISC 6**{: .label .label-disc }":
+          "**DIS 6**{: .label .label-disc }":
       - date: 2021-11-2
         events:
           "**LAB 5**{: .label .label-lab }":
@@ -20,5 +20,5 @@
             "[DDS 7.2](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/2_permutation_tests.html)"
       - date: 2021-11-6
         events:
-          "**HW 4**{: .label .label-hw }":
+          "**HW 5**{: .label .label-hw } **Simulation, Sampling, and Hypothesis Testing (due 11/6)**":
 ---
