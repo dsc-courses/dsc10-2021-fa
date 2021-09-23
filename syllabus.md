@@ -78,7 +78,7 @@ In order to get started in this class, you'll need to set up a few things.
 
 ### Campuswire
 
-We'll be using Campuswire as our course message and discussion board. Please make a post on Campuswire if you have any questions about course content or logistics, or if you need to get in touch with the staff. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G9636FFCF). Make sure to join the chatroom for your assigned team as well as the #autograder chatroom.
+We'll be using Campuswire as our course message and discussion board. Please make a post on Campuswire if you have any questions about course content or logistics, or if you need to get in touch with the staff. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G9636FFCF). Make sure to join the chatroom for your [assigned team](../resources/teams.pdf) as well as the #autograder chatroom.
 
 ### Gradescope
 
