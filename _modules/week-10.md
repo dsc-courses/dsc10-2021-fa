@@ -7,9 +7,6 @@
           "**LEC 27**{: .label .label-lecture } Residuals and Inference":
             "[CIT 15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)"
           "**DIS 10**{: .label .label-disc }":
-      - date: 2021-11-30
-        events:
-          "**LAB 9**{: .label .label-lab }":
       - date: 2021-12-1
         events:
           "**LEC 28**{: .label .label-lecture } Catch-Up/Review":

@@ -17,4 +17,7 @@
       - date: 2021-11-26
         events:
           "N/A (Thanksgiving)":
+      - date: 2021-11-27
+        events:
+          "**LAB 8**{: .label .label-lab }":
 ---
