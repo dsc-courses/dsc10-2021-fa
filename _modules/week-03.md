@@ -9,8 +9,8 @@
           "**DIS 3**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-12
         events:
-          "**LAB 3**{: .label .label-lab } **Data Visualization and Python Functions (due 10/12)**":
           "**DIS 3**{: .label .label-disc } Remote Discussion":
+          "**LAB 3**{: .label .label-lab } **Data Visualization and Python Functions (due 10/12)**":
       - date: 2021-10-13
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":

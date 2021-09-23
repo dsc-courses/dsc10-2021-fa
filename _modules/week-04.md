@@ -9,8 +9,8 @@
           "**DIS 4**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-19
         events:
-          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/19)**":
           "**DIS 4**{: .label .label-disc } Remote Discussion":
+          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/19)**":
       - date: 2021-10-20
         events:
           "**LEC 12**{: .label .label-lecture } Probability":

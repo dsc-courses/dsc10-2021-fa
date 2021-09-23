@@ -28,18 +28,18 @@ Prerequisites: None. This course is an introduction to data science with no prio
 ### Lecture
 
 There are three lecture sections, all of which will be taught in person.
-- A00: MWF 10-11AM, Warren Lecture Hall 2204, Janine Tiefenbruck
-- B00: MWF 11AM-12PM, Warren Lecture Hall 2204, Janine Tiefenbruck
-- C00: MWF 9-10AM, Cognitive Science Building 001, Suraj Rampure
+- A00: MWF 10-10:50AM, Warren Lecture Hall 2204, Janine Tiefenbruck
+- B00: MWF 11-11:50AM, Warren Lecture Hall 2204, Janine Tiefenbruck
+- C00: MWF 9-9:50AM, Cognitive Science Building 001, Suraj Rampure
 
 All lecture sections will cover the same content, but due to space constraints you must attend the lecture section you're enrolled in. Email the instructors if you have any concerns about this policy.
 
 ### Discussion
 
 There are three discussion sections, two of which will be taught in person while the third will be taught remotely.
-- A01: Monday 3-4PM, Ridge Walk Academic Complex 0121
-- B01: Monday 4-5PM, Ridge Walk Academic Complex 0121
-- C01: Tuesday 5-6PM, Remote via Zoom (see Canvas for Zoom link)
+- A01: Monday 3-3:50PM, Ridge Walk Academic Complex 0121
+- B01: Monday 4-4:50PM, Ridge Walk Academic Complex 0121
+- C01: Tuesday 5-5:50PM, Remote via Zoom (see Canvas for Zoom link)
 
 You can attend any discussion section, not just the one you're enrolled in.
 

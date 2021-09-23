@@ -9,8 +9,8 @@
           "**DIS 2**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-5
         events:
-          "**LAB 2**{: .label .label-lab } **Arrays and DataFrames (due 10/5)**":
           "**DIS 2**{: .label .label-disc } Remote Discussion":
+          "**LAB 2**{: .label .label-lab } **Arrays and DataFrames (due 10/5)**":
       - date: 2021-10-6
         events:
           "**LEC 6**{: .label .label-lecture } GroupBy":

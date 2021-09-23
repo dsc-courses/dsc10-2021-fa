@@ -9,8 +9,8 @@
           "**DIS 8**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-16
         events:
-          "**LAB 7**{: .label .label-lab } **Why The Mean Matters in School Life (due 11/16)**":
           "**DIS 8**{: .label .label-disc } Remote Discussion":
+          "**LAB 7**{: .label .label-lab } **Why The Mean Matters in School Life (due 11/16)**":
       - date: 2021-11-17
         events:
           "**LEC 23**{: .label .label-lecture } Central Limit Theorem, Normal Confidence Intervals":
