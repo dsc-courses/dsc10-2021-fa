@@ -6,10 +6,11 @@
         events:
           "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[DDS 3.1-3.4](https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html)"
-          "**DIS 3**{: .label .label-disc }":
+          "**DIS 3**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-12
         events:
-          "**LAB 3**{: .label .label-lab }":
+          "**LAB 3**{: .label .label-lab } **Data Visualization and Python Functions (due 10/12)**":
+          "**DIS 3**{: .label .label-disc } Remote Discussion":
       - date: 2021-10-13
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":

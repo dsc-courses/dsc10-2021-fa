@@ -6,10 +6,11 @@
         events:
           "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
             "[DDS 2.3-2.4](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/accessing.html)"
-          "**DIS 2**{: .label .label-disc }":
+          "**DIS 2**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-5
         events:
-          "**LAB 2**{: .label .label-lab }":
+          "**LAB 2**{: .label .label-lab } **Arrays and DataFrames (due 10/5)**":
+          "**DIS 2**{: .label .label-disc } Remote Discussion":
       - date: 2021-10-6
         events:
           "**LEC 6**{: .label .label-lecture } GroupBy":

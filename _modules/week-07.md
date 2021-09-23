@@ -6,10 +6,11 @@
         events:
           "**LEC 19**{: .label .label-lecture } Bootstrapping":
             "[DDS 8.1](https://eldridgejm.github.io/dive_into_data_science/08-estimation/1_bootstrap.html)"
-          "**DIS 7**{: .label .label-disc }":
+          "**DIS 7**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-9
         events:
-          "**LAB 6**{: .label .label-lab }":
+          "**LAB 6**{: .label .label-lab } **Permutation Testing and Bootstrapping (due 11/9)**":
+          "**DIS 7**{: .label .label-disc } Remote Discussion":
       - date: 2021-11-10
         events:
           "**LEC 20**{: .label .label-lecture } Confidence Intervals":

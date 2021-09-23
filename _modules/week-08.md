@@ -6,10 +6,11 @@
         events:
           "**LEC 22**{: .label .label-lecture } Normal Curve, Central Limit Theorem":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
-          "**DIS 8**{: .label .label-disc }":
+          "**DIS 8**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-16
         events:
-          "**LAB 7**{: .label .label-lab }":
+          "**LAB 7**{: .label .label-lab } **Why The Mean Matters in School Life (due 11/16)**":
+          "**DIS 8**{: .label .label-disc } Remote Discussion":
       - date: 2021-11-17
         events:
           "**LEC 23**{: .label .label-lecture } Central Limit Theorem, Normal Confidence Intervals":

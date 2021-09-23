@@ -6,10 +6,11 @@
         events:
           "**LEC 11**{: .label .label-lecture } Booleans and Conditionals, Iteration":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
-          "**DIS 4**{: .label .label-disc }":
+          "**DIS 4**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-19
         events:
-          "**LAB 4**{: .label .label-lab }":
+          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/19)**":
+          "**DIS 4**{: .label .label-disc } Remote Discussion":
       - date: 2021-10-20
         events:
           "**LEC 12**{: .label .label-lecture } Probability":
