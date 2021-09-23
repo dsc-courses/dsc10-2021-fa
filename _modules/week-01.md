@@ -20,6 +20,6 @@
             "[DDS 2.1-2.2](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/arrays.html)"
       - date: 2021-10-2
         events:
-          "**LAB 1**{: .label .label-lab } **Python Basics and Data Types (due 9/30)**":
+          "**LAB 1**{: .label .label-lab } **Python Basics and Data Types (due 10/2)**":
           "**HW 1**{: .label .label-hw } **Causality and Basic Python (due 10/2)**":
 ---
