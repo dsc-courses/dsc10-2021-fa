@@ -7,9 +7,6 @@
           "**LEC 25**{: .label .label-lecture } Prediction and Correlation":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
           "**DIS 9**{: .label .label-disc }":
-      - date: 2021-11-23
-        events:
-          "**LAB 8**{: .label .label-lab }":
       - date: 2021-11-24
         events:
           "**LEC 26**{: .label .label-lecture } Regression and Least Squares":

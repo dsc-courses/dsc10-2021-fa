@@ -17,7 +17,7 @@
       - date: 2021-11-19
         events:
           "**LEC 24**{: .label .label-lecture } Experiment Design":
-            "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html"
+            "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       - date: 2021-11-20
         events:
           "**HW 7**{: .label .label-hw } **Center, Spread, and Confidence Intervals (due 11/20)**":
