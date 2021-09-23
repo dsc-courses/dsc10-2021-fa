@@ -9,7 +9,7 @@
           "**DIS 3**{: .label .label-disc }":
       - date: 2021-10-12
         events:
-          "**LAB 2**{: .label .label-lab }":
+          "**LAB 3**{: .label .label-lab }":
       - date: 2021-10-13
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":

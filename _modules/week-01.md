@@ -11,6 +11,9 @@
         events:
           "**LEC 3**{: .label .label-lecture } Expressions and Data Types":
             "[DDS 1.1-1.6](https://eldridgejm.github.io/dive_into_data_science/01-getting_started/tools.html)"
+      - date: 2021-9-30
+        events:
+          "**LAB 1**{: .label .label-lab } **Python Basics and Data Types (due 9/30)**":
       - date: 2021-10-1
         events:
           "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":

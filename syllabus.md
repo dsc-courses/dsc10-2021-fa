@@ -53,7 +53,7 @@ Note that the schedule of courses also includes a designated Laboratory time for
 
 Since this is a large class, we will break up students into smaller teams to simulate the environment of a small class within the big one. This will be an opportunity for you to get to know the people on your team and the tutor assigned to mentor your team.  For data science majors (minors), it will be valuable to form connections with people in your major (minor) who have common interests, and perhaps down the road you'll pursue a project together or work as teammates in another data science course. 
 
-You will be placed into a team with students from your assigned lecture, and each team will be assigned a tutor as a mentor to oversee the team and help answer questions. Your team assignment is available here (TBD), sorted by PID.
+You will be placed into a team with students from your assigned lecture, and each team will be assigned a tutor as a mentor to oversee the team and help answer questions. [Your team assignment is available here, sorted by PID](../resources/teams.pdf).
 
 Within our Campuswire discussion board, each team will have a private chatroom. We ask that you first post questions to your team's chatroom before posting on the main discussion board. If your question gets resolved within the chatroom, great! If not, then feel free to post to the main discussion board. Research shows that discussion boards work best with moderate size discussion groups, and we encourage you to be an active participant on Campuswire!
 
@@ -109,7 +109,7 @@ Weekly lab assignments are a required part of the course and will help you devel
 As you complete the lab, you'll be able to run a sequence of tests, which check to make sure that your answers are correct. If you complete the assignment and all the tests pass, you'll get a perfect score!
 Each person must complete and submit the lab on their own, but you are welcome to discuss the lab with others. You cannot copy or share answers, however.
 
-To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will be due on Tuesdays at 11:59pm San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
+To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. Lab assignments will usually (not always!) be due on Tuesdays at 11:59pm San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
 
 ### Homework Assignments
 

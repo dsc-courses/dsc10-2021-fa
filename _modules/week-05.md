@@ -7,9 +7,6 @@
           "**LEC 14**{: .label .label-lecture } Sampling and Distributions":
             "[DDS 6.1-6.2](https://eldridgejm.github.io/dive_into_data_science/06-populations_and_samples/1_populations_and_samples.html)"
           "**DIS 5**{: .label .label-disc }":
-      - date: 2021-10-26
-        events:
-          "**LAB 4**{: .label .label-lab }":
       - date: 2021-10-27
         events:
           "**Exam**{: .label .label-exam } **Midterm (remote, during scheduled lecture)**":

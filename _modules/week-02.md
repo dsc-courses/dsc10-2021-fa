@@ -9,7 +9,7 @@
           "**DIS 2**{: .label .label-disc }":
       - date: 2021-10-5
         events:
-          "**LAB 1**{: .label .label-lab } **Basic Python and Data Types (due 10/5)**":
+          "**LAB 2**{: .label .label-lab }":
       - date: 2021-10-6
         events:
           "**LEC 6**{: .label .label-lecture } GroupBy":

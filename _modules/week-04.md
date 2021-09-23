@@ -9,7 +9,7 @@
           "**DIS 4**{: .label .label-disc }":
       - date: 2021-10-19
         events:
-          "**LAB 3**{: .label .label-lab }":
+          "**LAB 4**{: .label .label-lab }":
       - date: 2021-10-20
         events:
           "**LEC 12**{: .label .label-lecture } Probability":
