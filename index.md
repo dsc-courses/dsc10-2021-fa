@@ -12,7 +12,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Recordings, Zoom Links, and OH Schedule on Canvas](https://canvas.ucsd.edu/calendar?include_contexts=course_29590#view_name=month){: .btn .btn-blue }
+[Zoom Links and OH Schedule](https://canvas.ucsd.edu/calendar?include_contexts=course_29590#view_name=month){: .btn .btn-blue } [Podcasts](https://podcast.ucsd.edu){: .btn .btn-green }
 
 This schedule is subject to change.
 
