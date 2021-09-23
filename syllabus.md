@@ -45,7 +45,7 @@ You can attend any discussion section, not just the one you're enrolled in.
 
 Discussion section focuses on solving concrete problems using the techniques introduced in lecture, and is excellent preparation for the week's assignments, as well as exams. We expect that students in this class will have a wide range of backgrounds and relevant experience. If you are new to programming, you will especially benefit from taking advantage of the opportunity to attend discussion section and review the material from lecture. Attendance in discussion is highly recommended but not required.
 
-**All lecture and discussion sections will be recorded and posted for students in other time zones who cannot attend synchronously.** If you are able, you are encouraged to attend synchronously to ask questions and to participate in concept-check polls and discussion.
+**All lecture and discussion sections will be recorded and posted for students in other time zones who cannot attend synchronously.** The remote discussion section’s recording will be posted on Canvas, and all other recordings will be posted on [podcast.ucsd.edu](https://podcast.ucsd.edu). If you are able, you are encouraged to attend synchronously to ask questions and to participate in concept-check polls and discussion.
 
 Note that the schedule of courses also includes a designated Laboratory time for all three sections on Friday – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
 
