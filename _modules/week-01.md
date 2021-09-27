@@ -4,12 +4,12 @@
     days:
       - date: 2021-9-27
         events:
-          "**LEC 2**{: .label .label-lecture } Association and Causality":
+          "**LEC 2**{: .label .label-lecture } [Association and Causality](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec02/lecture.ipynb)":
             "[CIT 2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)"
-          "**DIS 1**{: .label .label-disc } In-Person Discussion":
+          "**DIS 1**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/01-python_basics/discussion.ipynb)":
       - date: 2021-9-28
         events:
-          "**DIS 1**{: .label .label-disc } Remote Discussion":
+          "**DIS 1**{: .label .label-disc } [Remote Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/01-python_basics/discussion.ipynb)":
       - date: 2021-9-29
         events:
           "**LEC 3**{: .label .label-lecture } Expressions and Data Types":
