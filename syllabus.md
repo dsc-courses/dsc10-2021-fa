@@ -49,6 +49,15 @@ Discussion section focuses on solving concrete problems using the techniques int
 
 Note that the schedule of courses also includes a designated Laboratory time for all three sections on Friday – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
 
+### Office Hours
+
+In order to provide you with help on assignments and concepts, the teaching team will be holding several office hours throughout the week. The office hours schedule, complete with locations/Zoom links, can be found on the Canvas calendar.
+
+There are two types of office hours:
+- Remote office hours: these are held on Zoom. Join the Zoom call by clicking the link within the calendar event on Canvas.
+- In-person office hours: these are held in-person on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You may need a code to enter the building; you can find this code on Canvas embedded within each calendar event. This code **must not** be shared with anyone outside of the class.
+    - In order to actually get help in-person, you'll need to join the queue at [autograder.ucsd.edu](https://autograder.ucsd.edu) and make a ticket.
+
 ## Teams
 
 Since this is a large class, we will break up students into smaller teams to simulate the environment of a small class within the big one. This will be an opportunity for you to get to know the people on your team and the tutor assigned to mentor your team.  For data science majors (minors), it will be valuable to form connections with people in your major (minor) who have common interests, and perhaps down the road you'll pursue a project together or work as teammates in another data science course. 
