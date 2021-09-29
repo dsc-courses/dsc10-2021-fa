@@ -10,7 +10,7 @@
       - date: 2021-10-5
         events:
           "**DIS 2**{: .label .label-disc } Remote Discussion":
-          "**LAB 2**{: .label .label-lab } **Arrays and DataFrames (due 10/5)**":
+          "**LAB 2**{: .label .label-lab } **[Arrays and DataFrames (due 10/5)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/02-arrays_tables/lab.ipynb)**":
       - date: 2021-10-6
         events:
           "**LEC 6**{: .label .label-lecture } GroupBy":
