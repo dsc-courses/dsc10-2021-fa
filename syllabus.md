@@ -51,7 +51,7 @@ Note that the schedule of courses also includes a designated Laboratory time for
 
 ### Office Hours
 
-In order to provide you with help on assignments and concepts, the teaching team will be holding several office hours throughout the week. The office hours schedule, complete with locations/Zoom links, can be found on the Canvas calendar.
+In order to provide you with help on assignments and concepts, the teaching team will be holding several office hours throughout the week. The office hours schedule, complete with locations/Zoom links, can be found on the [Canvas calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_29590#view_name=month).
 
 There are two types of office hours:
 - Remote office hours: these are held on Zoom. Join the Zoom call by clicking the link within the calendar event on Canvas.
