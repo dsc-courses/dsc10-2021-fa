@@ -16,7 +16,7 @@
             "[DDS 1.1-1.6](https://eldridgejm.github.io/dive_into_data_science/01-getting_started/tools.html)"
       - date: 2021-10-1
         events:
-          "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
+          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec04/lecture.ipynb)":
             "[DDS 2.1-2.2](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/arrays.html)"
       - date: 2021-10-2
         events:
