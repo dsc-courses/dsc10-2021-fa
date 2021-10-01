@@ -28,8 +28,8 @@ Prerequisites: None. This course is an introduction to data science with no prio
 ### Lecture
 
 There are three lecture sections, all of which will be taught in person.
-- A00: MWF 10-10:50AM, Warren Lecture Hall 2204, Janine Tiefenbruck
-- B00: MWF 11-11:50AM, Warren Lecture Hall 2204, Janine Tiefenbruck
+- A00: MWF 10-10:50AM, Ridge Walk Academic Complex 0121, Janine Tiefenbruck
+- B00: MWF 11-11:50AM, Ridge Walk Academic Complex 0121, Janine Tiefenbruck
 - C00: MWF 9-9:50AM, Cognitive Science Building 001, Suraj Rampure
 
 All lecture sections will cover the same content, but due to space constraints you must attend the lecture section you're enrolled in. Email the instructors if you have any concerns about this policy.
@@ -55,7 +55,7 @@ In order to provide you with help on assignments and concepts, the teaching team
 
 There are two types of office hours:
 - Remote office hours: these are held on Zoom. Join the Zoom call by clicking the link within the calendar event on Canvas.
-- In-person office hours: these are held in-person on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You may need a code to enter the building; you can find this code on Canvas embedded within each calendar event. This code **must not** be shared with anyone outside of the class.
+- In-person office hours: these are held in-person on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You may need a code to enter the building; you can find this code on Canvas embedded within each calendar event. This code **must not** be shared with anyone outside of the class. Make sure to hit the # key after entering the code.
     - In order to actually get help in-person, you'll need to join the queue at [autograder.ucsd.edu](https://autograder.ucsd.edu) and make a ticket.
 
 ## Teams
