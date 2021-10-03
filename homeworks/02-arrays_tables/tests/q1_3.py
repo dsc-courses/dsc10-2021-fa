@@ -1,0 +1,10 @@
+test = {   'name': 'q1_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(with_commas, str) and isinstance(with_spaces, str)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> len(with_commas) == 33 # You have the wrong length for with_commas. Make sure with_commas appears EXACTLY as described.\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
