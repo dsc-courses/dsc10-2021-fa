@@ -21,5 +21,5 @@
             "[DDS 3.1-3.4](https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html)"
       - date: 2021-10-9
         events:
-          "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 10/9)**":
+          "**HW 2**{: .label .label-hw } [**Arrays and DataFrames (due 10/9)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/02-arrays_tables/homework.ipynb)":
 ---
