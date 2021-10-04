@@ -4,7 +4,7 @@
     days:
       - date: 2021-10-4
         events:
-          "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
+          "**LEC 5**{: .label .label-lecture } [Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec05/lecture.ipynb)":
             "[DDS 2.3-2.4](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/accessing.html)"
           "**DIS 2**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/02-arrays_tables/discussion.ipynb)":
       - date: 2021-10-5
