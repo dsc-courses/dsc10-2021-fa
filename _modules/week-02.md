@@ -13,7 +13,7 @@
           "**LAB 2**{: .label .label-lab } **[Arrays and DataFrames (due 10/5)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/02-arrays_tables/lab.ipynb)**":
       - date: 2021-10-6
         events:
-          "**LEC 6**{: .label .label-lecture } GroupBy":
+          "**LEC 6**{: .label .label-lecture } [More Queries and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec06/lecture.ipynb)":
             "[DDS 2.5](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/groupby.html)"
       - date: 2021-10-8
         events:
