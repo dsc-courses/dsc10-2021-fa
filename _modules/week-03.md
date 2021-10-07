@@ -10,7 +10,7 @@
       - date: 2021-10-12
         events:
           "**DIS 3**{: .label .label-disc } Remote Discussion":
-          "**LAB 3**{: .label .label-lab } **Data Visualization and Python Functions (due 10/12)**":"(http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/02-arrays_tables/lab.ipynb)":
+          "**LAB 3**{: .label .label-lab } **Data Visualization and Python Functions (due 10/12)**":"(http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/03-apply_vis/lab.ipynb)":
       - date: 2021-10-13
         events:
           "**LEC 9**{: .label .label-lecture } Functions and Apply":
