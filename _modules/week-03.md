@@ -23,5 +23,5 @@
             "[DDS 2.5](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/groupby.html), [4.1](https://eldridgejm.github.io/dive_into_data_science/04-advanced_data_manipulation/merging.html)"
       - date: 2021-10-16
         events:
-          "**HW 3**{: .label .label-hw } **Data Visualization and Python Functions (due 10/16)**":
+          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 10/16)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
 ---
