@@ -1,0 +1,10 @@
+test = {   'name': 'q3_2',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': ">>> winter.shape[1] == 9 # Make sure you're replacing the Country column, not adding an additional column!\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> set(winter.columns) == {'Athlete', 'City', 'Country', 'Discipline', 'Event', 'Gender', 'Medal', 'Sport', 'Year'} # Check the column names!\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
