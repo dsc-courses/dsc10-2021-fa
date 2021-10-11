@@ -4,7 +4,7 @@
     days:
       - date: 2021-10-11
         events:
-          "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
+          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec08/lecture.ipynb)":
             "[DDS 3.1-3.4](https://eldridgejm.github.io/dive_into_data_science/03-visualization/intro.html)"
           "**DIS 3**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/03-plotting_apply/discussion.ipynb)":
       - date: 2021-10-12
