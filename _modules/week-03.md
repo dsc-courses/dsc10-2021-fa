@@ -12,7 +12,7 @@
           "**DIS 3**{: .label .label-disc } [Remote Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/03-plotting_apply/discussion.ipynb)":
       - date: 2021-10-13
         events:
-          "**LEC 9**{: .label .label-lecture } Functions and Apply":
+          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec09/lecture.ipynb)":
             "[DDS 2.6](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/apply.html)"
       - date: 2021-10-14
         events:
