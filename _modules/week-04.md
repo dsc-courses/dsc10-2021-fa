@@ -10,11 +10,13 @@
       - date: 2021-10-19
         events:
           "**DIS 4**{: .label .label-disc } Remote Discussion":
-          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/19)**":
       - date: 2021-10-20
         events:
           "**LEC 12**{: .label .label-lecture } Probability":
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html)"
+      - date: 2021-10-21
+        events:
+          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/21)**":
       - date: 2021-10-22
         events:
           "**LEC 13**{: .label .label-lecture } Simulations and Sampling":

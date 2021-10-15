@@ -19,7 +19,7 @@
           "**LAB 3**{: .label .label-lab } [**Data Visualization and Python Functions (due 10/14)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/03-apply_vis/lab.ipynb)":
       - date: 2021-10-15
         events:
-          "**LEC 10**{: .label .label-lecture } Grouping with Subgroups, Merge":
+          "**LEC 10**{: .label .label-lecture } [Grouping with Subgroups, Merge](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec10/lecture.ipynb)":
             "[DDS 2.5](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/groupby.html), [4.1](https://eldridgejm.github.io/dive_into_data_science/04-advanced_data_manipulation/merging.html)"
       - date: 2021-10-16
         events:
