@@ -19,5 +19,5 @@
             "[DDS 6.1-6.2](https://eldridgejm.github.io/dive_into_data_science/06-populations_and_samples/1_populations_and_samples.html)"
       - date: 2021-10-30
         events:
-          "**PROJ**{: .label .label-proj } **Midterm Project (due 10/30)**":
+          "**PROJ**{: .label .label-proj } [**Midterm Project (due 10/30)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
 ---
