@@ -1,0 +1,10 @@
+test = {   'name': 'q2_6',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(hot_cities, bpd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> hot_cities.columns.to_list() == ['Independents_100', 'Future_50'] # Make sure your column names are correct.\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
