@@ -16,7 +16,7 @@
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html)"
       - date: 2021-10-21
         events:
-          "**LAB 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 10/21)**":
+          "**LAB 4**{: .label .label-lab } [**DataFrames, Control Flow, and Probability (due 10/21)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/04-conditionals_iteration/lab.ipynb)":
       - date: 2021-10-22
         events:
           "**LEC 13**{: .label .label-lecture } Simulations and Sampling":
