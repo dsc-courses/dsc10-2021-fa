@@ -1,0 +1,11 @@
+test = {   'name': 'q2_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> callable(effective_tax_rate)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(effective_tax_rate(1234), float) # Should return a float.\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> effective_tax_rate(0) == 0 # If you fail this test, make sure you address the case where if income is less than or equal to 0, you return 0!\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
