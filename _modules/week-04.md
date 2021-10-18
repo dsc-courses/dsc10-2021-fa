@@ -23,5 +23,5 @@
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html), [6.1](https://eldridgejm.github.io/dive_into_data_science/06-populations_and_samples/1_populations_and_samples.html)"
       - date: 2021-10-23
         events:
-          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 10/23)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/04-conditionals_iteration/homework.ipynb)":
+          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 10/23)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/04-control_flow/homework.ipynb)":
 ---
