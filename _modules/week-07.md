@@ -9,7 +9,6 @@
           "**DIS 7**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-9
         events:
-          "**DIS 7**{: .label .label-disc } Remote Discussion":
           "**HW 5**{: .label .label-hw } **Simulation, Sampling, and Hypothesis Testing (due 11/9)**":
       - date: 2021-11-10
         events:

@@ -9,7 +9,6 @@
           "**DIS 6**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-2
         events:
-          "**DIS 6**{: .label .label-disc } Remote Discussion":
           "**PROJ**{: .label .label-proj } [**Midterm Project (due 11/2)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
       - date: 2021-11-3
         events:

@@ -9,7 +9,7 @@
           "**DIS 5**{: .label .label-disc } In-Person Discussion":
       - date: 2021-10-26
         events:
-          "**DIS 5**{: .label .label-disc } Remote Discussion":
+          "**REV**{: .label .label-survey } Midterm Review Session":
       - date: 2021-10-27
         events:
           "**Exam**{: .label .label-exam } **Midterm (remote, during scheduled lecture)**":
