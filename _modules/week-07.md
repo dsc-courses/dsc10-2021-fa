@@ -10,7 +10,7 @@
       - date: 2021-11-9
         events:
           "**DIS 7**{: .label .label-disc } Remote Discussion":
-          "**LAB 6**{: .label .label-lab } **Permutation Testing and Bootstrapping (due 11/9)**":
+          "**HW 5**{: .label .label-hw } **Simulation, Sampling, and Hypothesis Testing (due 11/9)**":
       - date: 2021-11-10
         events:
           "**LEC 20**{: .label .label-lecture } Confidence Intervals":
@@ -21,5 +21,5 @@
             "[CIT 14.1-14.2](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)"
       - date: 2021-11-13
         events:
-          "**HW 6**{: .label .label-hw } **Permutation Testing, Percentiles, and Bootstrapping (due 11/13)**":
+          "**LAB 6**{: .label .label-lab } **Permutation Testing and Bootstrapping (due 11/13)**":
 ---

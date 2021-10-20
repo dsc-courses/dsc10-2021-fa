@@ -10,7 +10,7 @@
       - date: 2021-11-2
         events:
           "**DIS 6**{: .label .label-disc } Remote Discussion":
-          "**LAB 5**{: .label .label-lab } **Simulation, Sampling, and Hypothesis Testing (due 11/2)**":
+          "**PROJ**{: .label .label-proj } [**Midterm Project (due 11/2)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
       - date: 2021-11-3
         events:
           "**LEC 17**{: .label .label-lecture } Hypothesis Testing, Permutation Testing":
@@ -21,5 +21,5 @@
             "[DDS 7.2](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/2_permutation_tests.html)"
       - date: 2021-11-6
         events:
-          "**HW 5**{: .label .label-hw } **Simulation, Sampling, and Hypothesis Testing (due 11/6)**":
+          "**LAB 5**{: .label .label-lab } **Simulation, Sampling, and Hypothesis Testing (due 11/6)**":
 ---

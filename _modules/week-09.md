@@ -10,6 +10,7 @@
       - date: 2021-11-23
         events:
           "**DIS 9**{: .label .label-disc } Remote Discussion":
+          "**HW 7**{: .label .label-hw } **Center, Spread, and Confidence Intervals (due 11/23)**":
       - date: 2021-11-24
         events:
           "**LEC 26**{: .label .label-lecture } Regression and Least Squares":
