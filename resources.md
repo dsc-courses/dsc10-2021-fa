@@ -7,6 +7,15 @@ nav_order: 3
 
 # Resources 📚
 
+## Practice Exams
+
+Below we've linked some exams from previous offerings of the course. These exams may not be in the same format as the exams in Fall 2021; read the disclaimers at the top of each exam.
+
+| Quarter | Instructor | Midterm |
+| --- | --- | --- | --- |
+| Spring 2021 | Mikio Aoi | [notebook]((http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/03-plotting_apply/discussion.ipynb)), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) |
+| Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) |
+
 ## Readings and Reference Sheets
 
 - [Main Textbook (Dive Into Data Science)](https://eldridgejm.github.io/dive_into_data_science/front.html)
