@@ -13,7 +13,7 @@ Below we've linked some exams from previous offerings of the course. These exams
 
 | Quarter | Instructor | Midterm |
 | --- | --- | --- | --- |
-| Spring 2021 | Mikio Aoi | [notebook]((http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/03-plotting_apply/discussion.ipynb)), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) |
+| Spring 2021 | Mikio Aoi | [notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/sp21_practice_exam/sp21_practice_exam_notebook.ipynb), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) |
 | Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) |
 
 ## Readings and Reference Sheets
