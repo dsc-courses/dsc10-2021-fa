@@ -9,7 +9,7 @@
           "**DIS 5**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/05-midterm_review/discussion.ipynb)":
       - date: 2021-10-26
         events:
-          "**REV**{: .label .label-survey } [Midterm Review Session](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/05-midterm_review/discussion.ipynb)":
+          "**REV**{: .label .label-survey } Midterm Review Session":
       - date: 2021-10-27
         events:
           "**Exam**{: .label .label-exam } **Midterm (remote, during scheduled lecture)**":
