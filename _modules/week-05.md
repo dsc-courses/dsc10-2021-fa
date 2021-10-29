@@ -15,6 +15,6 @@
           "**Exam**{: .label .label-exam } **Midterm (remote, during scheduled lecture)**":
       - date: 2021-10-29
         events:
-          "**LEC 15**{: .label .label-lecture } Models and Statistics":
+          "**LEC 15**{: .label .label-lecture } [Parameters and Statistics](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec15/lecture.ipynb)":
             "[DDS 6.1-6.2](https://eldridgejm.github.io/dive_into_data_science/06-populations_and_samples/1_populations_and_samples.html)"
 ---
