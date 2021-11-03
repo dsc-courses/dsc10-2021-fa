@@ -13,7 +13,7 @@
       - date: 2021-11-3
         events:
           "**LEC 17**{: .label .label-lecture } Hypothesis Testing, Continued":
-            "[DDS 7.1-7.2](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
+            "[DDS 7.1](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2021-11-5
         events:
           "**LEC 18**{: .label .label-lecture } Permutation Testing":
