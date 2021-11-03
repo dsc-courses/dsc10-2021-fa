@@ -12,7 +12,7 @@
           "**PROJ**{: .label .label-proj } [**Midterm Project (due 11/2)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
       - date: 2021-11-3
         events:
-          "**LEC 17**{: .label .label-lecture } Hypothesis Testing, Continued":
+          "**LEC 17**{: .label .label-lecture } [Hypothesis Testing, Continued](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec17/lecture.ipynb)":
             "[DDS 7.1](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2021-11-5
         events:
