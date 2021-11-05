@@ -16,7 +16,7 @@
             "[DDS 7.1](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2021-11-5
         events:
-          "**LEC 18**{: .label .label-lecture } Permutation Testing":
+          "**LEC 18**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec18/lecture.ipynb)":
             "[DDS 7.2](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/2_permutation_tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
       - date: 2021-11-6
         events:
