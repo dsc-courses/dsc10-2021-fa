@@ -6,6 +6,13 @@ nav_order: 3
 ---
 
 # Resources 📚
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Practice Exams
 
@@ -15,6 +22,12 @@ Below we've linked some exams from previous offerings of the course. These exams
 | --- | --- | --- | --- |
 | Spring 2021 | Mikio Aoi | [notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/sp21_practice_exam/sp21_practice_exam_notebook.ipynb), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) |
 | ⭐️ Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) |
+
+## Supplemental Videos
+
+- [Navigating DataHub and Jupyter Notebooks](https://youtu.be/Hq8VaNirDRQ)
+- [Problem Solving with GroupBy (Lecture 6 Supplement)](https://youtu.be/xg7rnjWnZ48)
+- [For Loops (and when **not** to use them)](https://youtu.be/BlczSBT80fU)
 
 ## Readings and Reference Sheets
 
@@ -37,3 +50,4 @@ Below we've linked some exams from previous offerings of the course. These exams
 - [Data Science Advising](https://datascience.ucsd.edu/academics/undergraduate/advising/)
 - [Library Guide to Data and Statistics](https://ucsd.libguides.com/data-statistics)
 - [Academic Integrity Homepage](https://academicintegrity.ucsd.edu)
+- [Counseling and Psychological Services (CAPS)](https://caps.ucsd.edu)
