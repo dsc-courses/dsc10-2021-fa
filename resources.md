@@ -28,6 +28,7 @@ Below we've linked some exams from previous offerings of the course. These exams
 - [Navigating DataHub and Jupyter Notebooks](https://youtu.be/Hq8VaNirDRQ)
 - [Problem Solving with GroupBy (Lecture 6 Supplement)](https://youtu.be/xg7rnjWnZ48)
 - [For Loops (and when **not** to use them)](https://youtu.be/BlczSBT80fU)
+    - The notebook used in the video can be found [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/for-loops/for-loops.ipynb).
 
 ## Readings and Reference Sheets
 
