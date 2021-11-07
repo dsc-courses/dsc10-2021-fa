@@ -20,5 +20,5 @@
             "[CIT 14.1-14.2](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)"
       - date: 2021-11-13
         events:
-          "**LAB 6**{: .label .label-lab } **Permutation Testing and Bootstrapping (due 11/13)**":
+          "**LAB 6**{: .label .label-lab } [**Permutation Testing and Bootstrapping (due 11/13)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/06-resampling_and_the_bootstrap/lab.ipynb)":
 ---
