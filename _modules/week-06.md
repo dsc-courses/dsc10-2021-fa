@@ -6,7 +6,7 @@
         events:
           "**LEC 16**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec16/lecture.ipynb)":
             "[DDS 7.1](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/1_hypothesis_tests.html)"
-          "**DIS 6**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/06-hypothesis_testing/)":
+          "**DIS 6**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/06-hypothesis_testing/discussion.ipynb)":
       - date: 2021-11-2
         events:
           "**PROJ**{: .label .label-proj } [**Midterm Project (due 11/2)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
