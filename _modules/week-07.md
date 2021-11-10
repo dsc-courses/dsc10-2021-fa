@@ -12,7 +12,7 @@
           "**HW 5**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing (due 11/9)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/05-hypothesis/homework.ipynb)":
       - date: 2021-11-10
         events:
-          "**LEC 20**{: .label .label-lecture } Percentiles and Confidence Intervals":
+          "**LEC 20**{: .label .label-lecture } [Percentiles and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec20/lecture.ipynb)":
             "[DDS 8.2-8.3](https://eldridgejm.github.io/dive_into_data_science/08-estimation/2_confidence_intervals.html)"
       - date: 2021-11-12
         events:
