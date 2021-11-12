@@ -16,7 +16,7 @@
             "[DDS 8.2-8.3](https://eldridgejm.github.io/dive_into_data_science/08-estimation/2_confidence_intervals.html)"
       - date: 2021-11-12
         events:
-          "**LEC 21**{: .label .label-lecture } Center and Spread":
+          "**LEC 21**{: .label .label-lecture } [Confidence Intervals, Center and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec21/lecture.ipynb)":
             "[CIT 14.1-14.2](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)"
       - date: 2021-11-13
         events:
