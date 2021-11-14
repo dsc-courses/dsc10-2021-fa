@@ -20,5 +20,5 @@
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       - date: 2021-11-20
         events:
-          "**LAB 7**{: .label .label-lab } **Why The Mean Matters in School Life (due 11/20)**":
+          "**LAB 7**{: .label .label-lab } [**Center, Spread, and the Normal Distribution (due 11/20)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/07-center_spread_normal/lab.ipynb)":
 ---
