@@ -4,8 +4,8 @@
     days:
       - date: 2021-11-15
         events:
-          "**LEC 22**{: .label .label-lecture } Normal Curve, Central Limit Theorem":
-            "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
+          "**LEC 22**{: .label .label-lecture } [Normal Curve](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec22/lecture.ipynb)":
+            "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
           "**DIS 8**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-16
         events:
@@ -13,7 +13,7 @@
       - date: 2021-11-17
         events:
           "**LEC 23**{: .label .label-lecture } Central Limit Theorem, Normal Confidence Intervals":
-            "[CIT 13.4-13.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
+            "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
       - date: 2021-11-19
         events:
           "**LEC 24**{: .label .label-lecture } Experiment Design":
