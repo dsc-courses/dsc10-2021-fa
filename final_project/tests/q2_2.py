@@ -1,0 +1,10 @@
+test = {   'name': 'q2_2',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> all_characters_goodness.shape == (19859, 11)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> all_characters_goodness.get("GOOD").loc["Green Lantern (Hal Jordan)"] == 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> all_characters_goodness.get("GOOD").loc["Tinkerer (Skrull) (Earth-616)"] == -1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(all_characters_goodness.get("GOOD").mean(), -0.1081121909461705)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

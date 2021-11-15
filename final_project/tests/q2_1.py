@@ -1,0 +1,10 @@
+test = {   'name': 'q2_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> all_characters.shape == (23272, 10)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> all_characters.get("COMPANY").iloc[3] == "DC" # Make sure the rows for DC are before the rows for Marvel!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> all_characters.get("COMPANY").iloc[-3] == "Marvel"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> all_characters.groupby('COMPANY').count().get('ID').loc['DC'] == 6896\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
