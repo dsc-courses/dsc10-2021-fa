@@ -6,7 +6,7 @@
         events:
           "**LEC 22**{: .label .label-lecture } [Normal Curve](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec22/lecture.ipynb)":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
-          "**DIS 8**{: .label .label-disc } In-Person Discussion":
+          "**DIS 8**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/08-confidence_intervals/discussion.ipynb)":
       - date: 2021-11-16
         events:
           "**HW 6**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping (due 11/16)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/06-bootstrap/homework.ipynb)":
