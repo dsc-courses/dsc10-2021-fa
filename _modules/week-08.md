@@ -12,7 +12,7 @@
           "**HW 6**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping (due 11/16)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/06-bootstrap/homework.ipynb)":
       - date: 2021-11-17
         events:
-          "**LEC 23**{: .label .label-lecture } Central Limit Theorem, Normal Confidence Intervals":
+          "**LEC 23**{: .label .label-lecture } [Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec23/lecture.ipynb)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
       - date: 2021-11-19
         events:
