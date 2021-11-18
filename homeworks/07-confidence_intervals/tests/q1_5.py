@@ -1,0 +1,12 @@
+test = {   'name': 'q1_5',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(ci_80, int)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(ci_90, int)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(ci_99, int)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> ci_80 in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> ci_90 in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> ci_99 in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

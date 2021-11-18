@@ -1,0 +1,11 @@
+test = {   'name': 'q2_6',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> cat_conclusion in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> doc_conclusion in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> hum_conclusion in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> mmw_conclusion in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> wcwp_conclusion in [1, 2, 3]\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
