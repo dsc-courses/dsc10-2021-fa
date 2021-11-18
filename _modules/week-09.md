@@ -9,7 +9,7 @@
           "**DIS 9**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-23
         events:
-          "**HW 7**{: .label .label-hw } **Center, Spread, and Confidence Intervals (due 11/23)**":
+          "**HW 7**{: .label .label-hw } [**Center, Spread, and Confidence Intervals (due 11/23)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/07-confidence_intervals/homework.ipynb)":
       - date: 2021-11-24
         events:
           "**LEC 26**{: .label .label-lecture } Regression and Least Squares":
