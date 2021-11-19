@@ -16,7 +16,7 @@
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
       - date: 2021-11-19
         events:
-          "**LEC 24**{: .label .label-lecture } Experiment Design":
+          "**LEC 24**{: .label .label-lecture } [Experiment Design](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec24/lecture.ipynb)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       - date: 2021-11-20
         events:
