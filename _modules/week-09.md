@@ -19,5 +19,5 @@
           "N/A (Thanksgiving)":
       - date: 2021-11-27
         events:
-          "**LAB 8**{: .label .label-lab } **Regression (due 11/27)**":
+          "[**LAB 8**{: .label .label-lab } **Regression (due 11/27)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/08-regression/lab.ipynb)":
 ---
