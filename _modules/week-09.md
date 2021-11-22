@@ -4,7 +4,7 @@
     days:
       - date: 2021-11-22
         events:
-          "**LEC 25**{: .label .label-lecture } Prediction and Correlation":
+          "**LEC 25**{: .label .label-lecture } [Prediction and Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec25/lecture.ipynb)":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
           "**DIS 9**{: .label .label-disc } In-Person Discussion":
       - date: 2021-11-23
