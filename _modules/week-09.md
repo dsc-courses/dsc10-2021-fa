@@ -6,7 +6,7 @@
         events:
           "**LEC 25**{: .label .label-lecture } [Prediction and Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec25/lecture.ipynb)":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
-          "**DIS 9**{: .label .label-disc } In-Person Discussion":
+          "**DIS 9**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/09-normal_clt/discussion.ipynb)":
       - date: 2021-11-23
         events:
           "**HW 7**{: .label .label-hw } [**Confidence Intervals, Normal Distributions, and the Central Limit Theorem (due 11/23)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/07-confidence_intervals/homework.ipynb)":
