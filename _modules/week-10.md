@@ -14,6 +14,7 @@
       - date: 2021-12-3
         events:
           "**LEC 29**{: .label .label-lecture } Review":
+          "**SRV**{: .label .label-survey } [**End of Quarter Survey (due 12/3)**](https://docs.google.com/forms/d/e/1FAIpQLScRtYb7_kMCdjUU02rmvPPOZxIJVihcHubATg-nQ_ke1ncrog/viewform)":
       - date: 2021-12-4
         events:
           "**Exam**{: .label .label-exam } **Final Exam (11:30AM-2:30PM)**":
