@@ -16,12 +16,12 @@ nav_order: 3
 
 ## Practice Exams
 
-Below we've linked some exams from previous offerings of the course. These exams may not be in the same format as the exams in Fall 2021; you should prioritize the Winter 2021 exam as it will be closer in format to the Fall 2021 midterm exam.
+Below we've linked some exams from previous offerings of the course. These exams may not be in the same format as the exams in Fall 2021; you should prioritize the Winter 2021 exams as they will be closer in format to the Fall 2021 exams.
 
-| Quarter | Instructor | Midterm |
+| Quarter | Instructor | Midterm | Final |
 | --- | --- | --- | --- |
-| Spring 2021 | Mikio Aoi | [notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/sp21_practice_exam/sp21_practice_exam_notebook.ipynb), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) |
-| ⭐️ Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) |
+| Spring 2021 | Mikio Aoi | [notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/sp21_practice_exam/sp21_practice_exam_notebook.ipynb), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) | |
+| ⭐️ Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1685350) |
 
 ## Supplemental Videos
 
