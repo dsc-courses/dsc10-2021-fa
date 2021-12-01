@@ -9,11 +9,11 @@
           "**DIS 10**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/10-final-review/discussion.ipynb)":
       - date: 2021-12-1
         events:
-          "**LEC 28**{: .label .label-lecture } Catch-Up/Review":
+          "**LEC 28**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec28/)":
           "**PROJ**{: .label .label-proj } [**Final Project (due 12/1)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=final_project/project.ipynb)":
       - date: 2021-12-3
         events:
-          "**LEC 29**{: .label .label-lecture } Review":
+          "**LEC 29**{: .label .label-lecture } Review, Conclusion":
           "**SRV**{: .label .label-survey } [**End of Quarter Survey (due 12/3)**](https://docs.google.com/forms/d/e/1FAIpQLScRtYb7_kMCdjUU02rmvPPOZxIJVihcHubATg-nQ_ke1ncrog/viewform)":
       - date: 2021-12-4
         events:
