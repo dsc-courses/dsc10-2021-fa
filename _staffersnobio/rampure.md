@@ -4,7 +4,7 @@ role: Instructor
 pronouns: he/him
 email: rampure@ucsd.edu
 website: https://rampure.org
-photo: suraj-rampure.png
+photo: ../assets/images/suraj-rampure.png
 lecture: C00 (MWF 9-9:50AM, CSB 001)
 ---
 

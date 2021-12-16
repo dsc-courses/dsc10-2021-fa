@@ -12,7 +12,7 @@
           "**DIS 4**{: .label .label-disc } [Remote Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/04-simulation/discussion.ipynb)":
       - date: 2021-10-20
         events:
-          "**LEC 12**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec12/lecture.ipynb) ([pdf](../resources/lec12.pdf)) ([annotated](https://campuswire.com/c/G9636FFCF/feed/233))":
+          "**LEC 12**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec12/lecture.ipynb) ([pdf](https://dsc-courses.github.io/dsc10-2021-fa/resources/lec12.pdf)) ([annotated](https://campuswire.com/c/G9636FFCF/feed/233))":
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html)"
       - date: 2021-10-21
         events:
