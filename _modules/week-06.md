@@ -9,7 +9,7 @@
           "**DIS 6**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/06-hypothesis_testing/discussion.ipynb)":
       - date: 2021-11-2
         events:
-          "**PROJ**{: .label .label-proj } [**Midterm Project (due 11/2)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=midterm_project/project.ipynb)":
+          "**PROJ**{: .label .label-proj } Midterm Project (due 11/2)":
       - date: 2021-11-3
         events:
           "**LEC 17**{: .label .label-lecture } [Hypothesis Testing, Continued](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec17/lecture.ipynb)":
@@ -20,5 +20,5 @@
             "[DDS 7.2](https://eldridgejm.github.io/dive_into_data_science/07-hypothesis_testing/2_permutation_tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
       - date: 2021-11-6
         events:
-          "**LAB 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 11/6)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/05-hypothesis_testing/lab.ipynb)":
+          "**LAB 5**{: .label .label-lab } Simulation, Sampling, and Hypothesis Testing (due 11/6)":
 ---

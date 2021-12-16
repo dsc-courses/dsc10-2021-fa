@@ -20,6 +20,6 @@
             "[DDS 2.1-2.2](https://eldridgejm.github.io/dive_into_data_science/02-data_sets/arrays.html)"
       - date: 2021-10-2
         events:
-          "**LAB 1**{: .label .label-lab } **[Python Basics and Data Types (due 10/2)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/01-python_basics/lab.ipynb)**":
-          "**HW 1**{: .label .label-hw } **[Causality and Basic Python (due 10/2)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/01-causality/homework.ipynb)**":
+          "**LAB 1**{: .label .label-lab } Python Basics and Data Types (due 10/2)":
+          "**HW 1**{: .label .label-hw } Causality and Basic Python (due 10/2)":
 ---

@@ -9,7 +9,7 @@
           "**DIS 7**{: .label .label-disc } [In-Person Discussion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=discussions/07-permutation_testing/discussion.ipynb)":
       - date: 2021-11-9
         events:
-          "**HW 5**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing (due 11/9)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/05-hypothesis/homework.ipynb)":
+          "**HW 5**{: .label .label-hw } Simulation, Sampling, and Hypothesis Testing (due 11/9)":
       - date: 2021-11-10
         events:
           "**LEC 20**{: .label .label-lecture } [Percentiles and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec20/lecture.ipynb)":
@@ -20,5 +20,5 @@
             "[CIT 14.1-14.2](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html)"
       - date: 2021-11-13
         events:
-          "**LAB 6**{: .label .label-lab } [**Permutation Testing and Bootstrapping (due 11/13)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/06-resampling_and_the_bootstrap/lab.ipynb)":
+          "**LAB 6**{: .label .label-lab } Permutation Testing and Bootstrapping (due 11/13)":
 ---

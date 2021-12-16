@@ -16,12 +16,12 @@
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html)"
       - date: 2021-10-21
         events:
-          "**LAB 4**{: .label .label-lab } [**DataFrames, Control Flow, and Probability (due 10/21)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=labs/04-conditionals_iteration/lab.ipynb)":
+          "**LAB 4**{: .label .label-lab } DataFrames, Control Flow, and Probability (due 10/21)":
       - date: 2021-10-22
         events:
           "**LEC 13**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=lectures/lec13/lecture.ipynb)":
             "[DDS 5.1](https://eldridgejm.github.io/dive_into_data_science/05-probability_and_simulation/probability_and_simulation.html)"
       - date: 2021-10-23
         events:
-          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 10/23)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=homeworks/04-control_flow/homework.ipynb)":
+          "**HW 4**{: .label .label-hw } DataFrames, Control Flow, and Probability (due 10/23)":
 ---
